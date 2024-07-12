@@ -1,0 +1,21 @@
+{
+  "name": "gitvizual",
+  "version": "1.0.0",
+  "description": "A tool to display GitHub repository structure",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "gitvizual": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edwin Silvestre",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "octokit": "^4.0.2"
+  }
+}
