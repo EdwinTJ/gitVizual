@@ -13,9 +13,14 @@
   },
   "keywords": [],
   "author": "Edwin Silvestre",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
     "octokit": "^4.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwinTJ/gitVizual"
+  },
+  "homepage": "https://github.com/EdwinTJ/gitVizual"
 }
